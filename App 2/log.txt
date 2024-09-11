@@ -1,0 +1,1 @@
+111.222.333.123 HOME - [01/Jan/2022:01:08:39 -0800] "GET /tagad/ad.htm HTTP/1.0" 200 198 "https://www.testwebserver.com/tagad/intro.htm" "Mozilla/4.01 (Macintosh; I; PPC)"
