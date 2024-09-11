@@ -1,0 +1,10 @@
+D:\fiverr\order\dan1187\app 1\App 1\App 1\bin\Debug\App 1.exe.config
+D:\fiverr\order\dan1187\app 1\App 1\App 1\bin\Debug\App 1.exe
+D:\fiverr\order\dan1187\app 1\App 1\App 1\bin\Debug\App 1.pdb
+D:\fiverr\order\dan1187\app 1\App 1\App 1\obj\Debug\App 1.csproj.AssemblyReference.cache
+D:\fiverr\order\dan1187\app 1\App 1\App 1\obj\Debug\App_1.Form1.resources
+D:\fiverr\order\dan1187\app 1\App 1\App 1\obj\Debug\App_1.Properties.Resources.resources
+D:\fiverr\order\dan1187\app 1\App 1\App 1\obj\Debug\App 1.csproj.GenerateResource.cache
+D:\fiverr\order\dan1187\app 1\App 1\App 1\obj\Debug\App 1.csproj.CoreCompileInputs.cache
+D:\fiverr\order\dan1187\app 1\App 1\App 1\obj\Debug\App 1.exe
+D:\fiverr\order\dan1187\app 1\App 1\App 1\obj\Debug\App 1.pdb
