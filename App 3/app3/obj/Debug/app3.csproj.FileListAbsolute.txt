@@ -1,0 +1,20 @@
+D:\fiverr\order\dan1187\app 1\New folder\app3\app3\bin\Debug\app3.exe.config
+D:\fiverr\order\dan1187\app 1\New folder\app3\app3\bin\Debug\app3.exe
+D:\fiverr\order\dan1187\app 1\New folder\app3\app3\bin\Debug\app3.pdb
+D:\fiverr\order\dan1187\app 1\New folder\app3\app3\obj\Debug\app3.csproj.AssemblyReference.cache
+D:\fiverr\order\dan1187\app 1\New folder\app3\app3\obj\Debug\app3.Form1.resources
+D:\fiverr\order\dan1187\app 1\New folder\app3\app3\obj\Debug\app3.Properties.Resources.resources
+D:\fiverr\order\dan1187\app 1\New folder\app3\app3\obj\Debug\app3.csproj.GenerateResource.cache
+D:\fiverr\order\dan1187\app 1\New folder\app3\app3\obj\Debug\app3.csproj.CoreCompileInputs.cache
+D:\fiverr\order\dan1187\app 1\New folder\app3\app3\obj\Debug\app3.exe
+D:\fiverr\order\dan1187\app 1\New folder\app3\app3\obj\Debug\app3.pdb
+D:\fiverr\order\copy\app3\app3\bin\Debug\app3.exe.config
+D:\fiverr\order\copy\app3\app3\bin\Debug\app3.exe
+D:\fiverr\order\copy\app3\app3\bin\Debug\app3.pdb
+D:\fiverr\order\copy\app3\app3\obj\Debug\app3.csproj.AssemblyReference.cache
+D:\fiverr\order\copy\app3\app3\obj\Debug\app3.Form1.resources
+D:\fiverr\order\copy\app3\app3\obj\Debug\app3.Properties.Resources.resources
+D:\fiverr\order\copy\app3\app3\obj\Debug\app3.csproj.GenerateResource.cache
+D:\fiverr\order\copy\app3\app3\obj\Debug\app3.csproj.CoreCompileInputs.cache
+D:\fiverr\order\copy\app3\app3\obj\Debug\app3.exe
+D:\fiverr\order\copy\app3\app3\obj\Debug\app3.pdb
